@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Hariharan-0506/Create-a-Page-using-ReactJS/static/css/main.70b31e95.css",
-    "main.js": "/Hariharan-0506/Create-a-Page-using-ReactJS/static/js/main.a46b0898.js",
-    "index.html": "/Hariharan-0506/Create-a-Page-using-ReactJS/index.html",
-    "main.70b31e95.css.map": "/Hariharan-0506/Create-a-Page-using-ReactJS/static/css/main.70b31e95.css.map",
-    "main.a46b0898.js.map": "/Hariharan-0506/Create-a-Page-using-ReactJS/static/js/main.a46b0898.js.map"
+    "main.css": "/Create-a-Page-using-ReactJS/static/css/main.70b31e95.css",
+    "main.js": "/Create-a-Page-using-ReactJS/static/js/main.a46b0898.js",
+    "index.html": "/Create-a-Page-using-ReactJS/index.html",
+    "main.70b31e95.css.map": "/Create-a-Page-using-ReactJS/static/css/main.70b31e95.css.map",
+    "main.a46b0898.js.map": "/Create-a-Page-using-ReactJS/static/js/main.a46b0898.js.map"
   },
   "entrypoints": [
     "static/css/main.70b31e95.css",
